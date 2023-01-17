@@ -16,6 +16,9 @@
       "role": "Developer"
     }
   ],
+  "require": {
+    "php": ">=7.0"
+  },
   "autoload": {
     "psr-4": {
       "ElxDigital\\Correios\\": "src"
