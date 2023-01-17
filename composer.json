@@ -1,0 +1,27 @@
+{
+  "name": "elxdigital/correios",
+  "description": "Componente de integração com os Correios",
+  "keywords": [
+    "Correios",
+    "PHP",
+    "SDK",
+    "Ellox"
+  ],
+  "homepage": "https://www.ellox.com.br",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ellox Inteligência Digital",
+      "email": "desenvolvimento@ellox.com.br",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "ElxDigital\\Correios\\": "src"
+    }
+  }
+}
