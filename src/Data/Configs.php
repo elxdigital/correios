@@ -1,6 +1,6 @@
 <?php
 
-namespace Source\Support\Correios\Data;
+namespace ElxDigital\Correios\Data;
 
 class Configs
 {
